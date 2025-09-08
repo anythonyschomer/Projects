@@ -77,7 +77,45 @@ This project uses public Nebraska government data released for research and anal
 
 👨‍💻 Author: Anthony Schomer
 
-# Project 3
+# Project 3  
+Supermarket Sales Data Analysis 🛒
 
-  - Secrets & Lies (1996) → 4.73  
-  - Dr. Strangelove (1963) → 4.71 
+An exploratory data analysis project that examines supermarket sales data to reveal store performance, customer traffic patterns, and sales trends. The analysis includes data cleaning, visualization, and insightful summaries to support business decision-making.
+
+## Project Overview  
+- Dataset contains daily sales transactions from multiple supermarket locations.  
+- Focus on data preparation, exploratory data analysis (EDA), and visualization of sales and customer metrics.  
+- Identify sales trends, top-performing stores, and anomalies in the data.
+
+## What I Did  
+- Loaded and cleaned raw dataset: handled missing values, data types, and duplicates.  
+- Conducted EDA to explore feature distributions and relationships.  
+- Created visualizations illustrating sales performance, customer counts, and store metrics over time.  
+- Highlighted anomalies and outliers to identify potential data issues or business events.
+
+## Key Takeaways  
+- Larger stores with more inventory tend to have higher sales and customer visits.  
+- Sales exhibit seasonal and weekly patterns, with variability across stores.  
+- Customer traffic is strongly correlated with daily sales volumes.  
+- Anomalous sales days were flagged for further investigation.
+
+---
+
+## How to Run  
+1. Download or place the dataset file `supermarket_sales.csv` in the `data/` folder.  
+2. Run the notebook `Supermarket_Sales_Analysis.ipynb` to reproduce the cleaning, analysis, and visualizations.  
+3. Install dependencies: pip install pandas numpy matplotlib seaborn
+## Future Work  
+- Incorporate time series forecasting for sales prediction.  
+- Extend analysis to product-level sales and inventory optimization.  
+- Build machine learning models for customer segmentation.  
+- Develop interactive dashboards for real-time sales monitoring.
+
+---
+
+## License  
+This project uses publicly available supermarket sales data for educational and analytical purposes.
+
+---
+
+👨‍💻 Author: Anthony Schomer
