@@ -32,8 +32,8 @@ Source: [MovieLens 100k dataset](https://grouplens.org/datasets/movielens/)
   - L.A. Confidential (1997) → 4.80  
   - A Close Shave (1995) → 4.75
  
-  - # Project 2
-  - # Nebraska 2025 Expenditures Data Analysis
+# Project 2
+# Nebraska 2025 Expenditures Data Analysis
 
 This project analyzes the public expenditures data for the State of Nebraska in the year 2025. The objective is to understand spending patterns across departments and categories, and to surface key trends and notable expenses.
 
