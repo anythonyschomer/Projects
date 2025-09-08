@@ -1,5 +1,5 @@
 # Projects
-**# This file details all current Projects in this folder**
+# **This file details all current Projects in this folder**
 # MovieLens Recommender System 🎬
 
 A collaborative filtering recommender system built on the **MovieLens 100k dataset** using the **Surprise library (SVD algorithm)**.  
